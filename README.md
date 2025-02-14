@@ -66,7 +66,7 @@ Just like bugs I might be small, but I make a huge impact.
 ###
 
 <div align="left">
- <a href="www.linkedin.com/in/alia-taher-791189351" target="_blank">
+ <a href="https://www.linkedin.com/in/alia-t-2834a7162/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
 <br>
