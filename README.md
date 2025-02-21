@@ -9,7 +9,7 @@ Just like bugs I might be small, but I make a huge impact.
 
 ###
 
-<p align="left">💻 I’m Currently working with:</p>
+<p align="left">💻 I’m currently working with:</p>
 
 ###
 
